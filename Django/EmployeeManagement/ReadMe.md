@@ -12,21 +12,21 @@
 
 - 增加部门
 
-  ![image-20221028113325994](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113325994.png)
+  ![image-20221028113325994](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113325994.png)
 
-  ![image-20221028113338511](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113338511.png)
+  ![image-20221028113338511](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113338511.png)
 
 - 删除部门
 
   - 删除`公关部`
 
-  ![image-20221028113525494](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113525494.png)
+  ![image-20221028113525494](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113525494.png)
 
 - 修改部门
 
   - 以`测试1`为例
 
-  ![image-20221028113428715](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113428715.png)
+  ![image-20221028113428715](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113428715.png)
 
-  ![image-20221028113453644](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113453644.png)
+  ![image-20221028113453644](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113453644.png)
 
