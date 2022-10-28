@@ -8,7 +8,7 @@
 
 - 查询部门并展示
 
-  ![image-20221028113259027](D:\GitHub\repository\Python\Django\EmployeeManagement\ReadMe.assets\image-20221028113259027.png)
+  ![image-20221028113259027](https://github.com/free-tiu/Python/blob/main/Django/EmployeeManagement/ReadMe.assets/image-20221028113259027.png)
 
 - 增加部门
 
